@@ -291,8 +291,8 @@ social-icons a:hover{
     margin-bottom: 0;
 }
 .timeline-item:nth-child(odd){
-    padding-left: calc(50% + 30px);
-    text-align: left;
+    padding-right: calc(50% + 30px);
+    text-align: right;
 }
 .timeline-item:nth-child(even){
     padding-left: calc(50% + 30px);
